@@ -20,7 +20,7 @@
 
                    Приятной игры на проекте Geca Rust!",
 "feedlabel":"Community Announcements",
-"date":1643999389,
+"date":1683147600000,
 "feedname":"steam_community_announcements",
 "feed_type":1,
 "appid":480
