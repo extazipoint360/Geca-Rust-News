@@ -3,7 +3,7 @@
 "newsitems":[
 {"gid":"4235074931847967953",
 "title":"Geca Rust НОВОСТИ!",
-"url":"https://discord.gg/Aq67M4Z3PK",
+"url":"https://vk.com/gecarust",
 "is_external_url":true,
 "author":"Arcana",
 "contents":"[img]https://cdn.discordapp.com/attachments/1019179782648373268/1087440239989096478/GECA_LOGO.png[/img]
