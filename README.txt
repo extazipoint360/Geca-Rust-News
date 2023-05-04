@@ -2,7 +2,7 @@
 {"appid":480,
 "newsitems":[
 {"gid":"4235074931847967953",
-"title":"Geca Rust НОВОСТИ!",
+"title":"Geca Rust ОБНОВЛЕНИЕ КЛИЕНТА!",
 "url":"https://vk.com/gecarust",
 "is_external_url":true,
 "author":"Arcana",
